@@ -1,0 +1,77 @@
+
+@font-face {
+	font-family: 'NEXONFootballGothicBA1';
+	src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXONFootballGothicBA1.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+body, p, div, span, a, h1, h2, h3, input, select, textarea, button, table, th, td {
+	font-family: 'NEXONFootballGothicBA1';
+	color: #555;
+}
+
+input, textarea, button {
+	border: 1px solid #999;
+	border-radius: 5px;
+	outline: none;
+	resize: none;
+	padding: 5px;
+}
+
+
+
+body {
+	width: 1000px;
+	margin: 20px auto;
+}
+
+header {
+
+	border: 1px solid #CCC;
+	background-color: #F1F4FF;
+	border-radius: 15px;
+	height: 80px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	letter-spacing: 10px;
+
+	font-size: 2rem;
+	font-weight: bold;
+	font-variant: small-caps;
+
+	margin-bottom: 20px;
+
+}
+
+header i {
+	margin-left: 10px;
+}
+
+#ma {
+	width: 750px;
+	margin: 10px auto;
+	text-align: center;
+	color: #7a7a7a;
+}
+
+.mainimg {
+	width: 350px;
+	border-radius: 30px;
+}
+
+#ma > div {
+	font-size: 1.2rem;
+	color: #7a7a7a;
+}
+
+.btn {
+	background-color: gold;
+	margin-top: 20px;
+	cursor: pointer;
+}
+
+
+
