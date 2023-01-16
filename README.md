@@ -51,33 +51,48 @@
 <img width="817" alt="main" src="https://user-images.githubusercontent.com/111338981/212662168-988c6f73-e27e-4325-bee4-068d2dd1d0e8.png">
 &nbsp;
 &nbsp;
+
+
 ###### _회원 로그인_
 <img width="797" alt="일반회원-계정 로그인" src="https://user-images.githubusercontent.com/111338981/212662189-8e3365ab-0110-47d6-a285-b87cb8f814b8.png">
 &nbsp;
 &nbsp;
+
+
 ###### _본인 게시물 조회_
 <img width="802" alt="일반회원-본인게시물" src="https://user-images.githubusercontent.com/111338981/212662194-eaf30e13-38ae-4f6a-8853-21d32a8effa4.png">
 &nbsp;
 &nbsp;
+
+
 ###### _본인 게시물 아닌 경우 조회_
 <img width="800" alt="일반회원-본인게시물 아닌 경우" src="https://user-images.githubusercontent.com/111338981/212662192-ee3b94ee-8e97-4f7c-8fc9-75950d9163b2.png">
 &nbsp;
 &nbsp;
+
+
 ###### _게시물 작성하기_
 <img width="809" alt="게시물 작성하기" src="https://user-images.githubusercontent.com/111338981/212662179-b48f9284-c2a9-475c-8018-b5a9cb31a047.png">
 &nbsp;
 &nbsp;
+
+
 ###### _게시물 수정하기_
 <img width="592" alt="일반회원-게시물수정" src="https://user-images.githubusercontent.com/111338981/212662187-9b9f7195-eaf6-4d4e-9d99-19be169e0d85.png">
 &nbsp;
 &nbsp;
+
+
 ###### _게시물 삭제하기_
 <img width="584" alt="게시물 삭제하기-비밀번호 입력화면" src="https://user-images.githubusercontent.com/111338981/212662176-65c59d97-14f7-4ee6-b9c2-32db5ea2f1e1.png">
+
 
 &nbsp;
 &nbsp;
 ###### _관리자 로그인_
 <img width="788" alt="관리자 계정 로그인" src="https://user-images.githubusercontent.com/111338981/212662181-d9fc6c68-8e1f-4270-9c60-732e0d86f989.png">
+
+
 &nbsp;
 &nbsp;
 ###### _관리자 모드_
